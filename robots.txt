@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.indian-mood-rennes.fr/sitemap.xml
+Sitemap: https://indianmood.github.io/Indianmood/sitemap.xml
